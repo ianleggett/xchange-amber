@@ -1,4 +1,7 @@
 # xchange-amber
 
 Releasing xchange for ambergroup.io
-for 5.0.7-SNAPSHOT
+
+Fully working streaming prices and trades
+
+for 5.0.7-SNAPSHOT (Oct 2021)
