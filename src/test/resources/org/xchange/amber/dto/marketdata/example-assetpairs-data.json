@@ -1,0 +1,15 @@
+{
+    "errno": 0,
+    "errmsg": "",
+    "data": {
+        "btc_usd": {
+            "order_minimum": 0.01
+        },
+        "btc_usdt": {
+            "order_minimum": 0.01
+        },
+        "bch_usd": {
+            "order_minimum": 0.5
+        }
+    }
+}

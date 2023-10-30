@@ -1,0 +1,56 @@
+{
+     "data":{
+     	"credit" : 1,
+     	"totalBalance" : 12345.67,
+         "balanceDetails": [
+              {
+                "name": "usdt",
+                "amount": -1254.88758166,
+                "frozen": 1004,
+                "coinId": 1,
+                "price": 1,
+                "withdrawable": 0
+            },
+            {
+                "name": "btc",
+                "amount": 10009.62796072,
+                "frozen": 4.01,
+                "coinId": 2,
+                "price": 9056.4,
+                "withdrawable": 1.10419151
+            },
+            {
+                "name": "usd",
+                "amount": 9995,
+                "frozen": 1,
+                "coinId": 7,
+                "price": 0.9989511013435892,
+                "withdrawable": 9994
+            },
+            {
+                "name": "eth",
+                "amount": 0,
+                "frozen": 0,
+                "coinId": 8,
+                "price": 230.10339143898906,
+                "withdrawable": 0
+            },
+            {
+                "name": "eos",
+                "amount": 0,
+                "frozen": 0,
+                "coinId": 11,
+                "price": 3.761050896558613,
+                "withdrawable": 0
+            }
+        ],
+        "subscriptionLock": 0,
+        "withdrawLock": 37321.16305090164,
+        "tradingMargin": 9973.074094883443,
+        "occupiedCredit": 1,
+        "occupiedBalanceByTrade": 9972.074094883443,
+        "equity": 90659924.29214087
+     },
+     "errmsg":"ok",
+     "errno":0
+ }
